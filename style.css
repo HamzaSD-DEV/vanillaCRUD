@@ -1,0 +1,11 @@
+.card{
+    margin: 20px auto;
+}
+.itemsContainer{
+    margin: 0 10%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    column-gap: 0.1%;
+}
